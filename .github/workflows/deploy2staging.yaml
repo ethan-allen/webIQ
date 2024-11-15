@@ -1,4 +1,4 @@
-name: "Deploy my CloudFormation stack to staging"
+name: "Deploy my CloudFormation stack to staging 1.0"
 
 on:
   push:
